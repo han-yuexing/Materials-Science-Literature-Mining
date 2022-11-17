@@ -1,0 +1,14 @@
+Technology :
+	anneal : 1
+	heat treatment : 2
+	cold roll : 3
+	hot roll : 4
+	quench : 5
+	slm : 6
+	lpbf : 7
+	temper : 8
+	others : 0
+
+Property Trend : 
+	enhance : 1
+	decrease : -1
